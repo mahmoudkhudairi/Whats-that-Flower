@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.7.0)
+  - ColorThiefSwift (0.3.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ColorThiefSwift
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  ColorThiefSwift: bca6dee535214015763310b7dd316290840c87e3
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: c9ce30445388ab29ce3abc3ea48d640a7db5f45b
+
+COCOAPODS: 1.4.0
